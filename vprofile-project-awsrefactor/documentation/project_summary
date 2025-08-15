@@ -1,8 +1,0 @@
-Summary of aws refactoring
-
-Learned
-
-
-Issues encontered
-Port Mismatch - Java app on 8080, load balancer routing to port 80 = 504 Gateway Timeout
-Wrong JDBC URL - Missing database name in connection string = "user not found" error
