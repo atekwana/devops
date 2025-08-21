@@ -5,8 +5,13 @@ pipeline {
 
     tools {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         maven 'Maven-3.9.11'
         jdk 'JDK-8'
+=======
+        maven 'MAVEN3'
+        jdk 'OracleJDK8'
+>>>>>>> Stashed changes
 =======
         maven 'MAVEN3'
         jdk 'OracleJDK8'
